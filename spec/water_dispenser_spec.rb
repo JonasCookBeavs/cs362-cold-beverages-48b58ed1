@@ -1,6 +1,4 @@
 require_relative '../lib/water_dispenser'
-require_relative '../lib/water_reservoir'
-require_relative '../lib/vessel'
 
 describe 'A water dispenser' do
 
